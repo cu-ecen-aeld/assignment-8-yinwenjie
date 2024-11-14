@@ -1,4 +1,5 @@
-!/bin/bash
+#!/bin/sh
+
 ### BEGIN INIT INFO
 # Provides:          Buildroot
 # Required-Start:    $scull, $faulty, $hello
